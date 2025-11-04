@@ -1,6 +1,7 @@
 # saintPy
 
-saintPy is a Python port of SAINT (Significance Analysis of INTeractome) for AP-MS and related interaction data. It keeps the original model and gives you a clean CLI and a Python API.
+saintPy is a Python port of SAINT (Significance Analysis of INTeractome) for
+AP-MS and related interaction data.
 
 ## Install
 
